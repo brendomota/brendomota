@@ -21,5 +21,5 @@ Além de ter desenvolvido minhas Soft skills, há diversas habilidades técnicas
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rafaelmsantos28&repo=arquitetura-software-site&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/rafaelmsantos28/arquitetura-software-site)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=acadarqsoftware&repo=academia-do-arquiteto-de-software&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/acadarqsoftware/academia-do-arquiteto-de-software)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=brendomota&repo=js-developer-pokedex&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/brendomota/js-developer-pokedex)
