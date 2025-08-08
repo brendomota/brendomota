@@ -12,9 +12,11 @@ Ao longo da minha jornada acadêmica e profissional, desenvolvi projetos utiliza
 <a href="https://www.linkedin.com/in/brendo-mota-botelho-cust%C3%B3dio-64542b264/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+<br>
 <a href="https://www.instagram.com/brendo_cust/?next=%2F">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
+<br>
 <a href="https://github.com/brendomota">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 </a>
