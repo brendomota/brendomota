@@ -5,6 +5,8 @@ Olá! Me chamo Brendo Mota e sou estudante de Ciência da Computação na UNESP.
 
 Ao longo da minha jornada acadêmica e profissional, desenvolvi projetos utilizando linguagens como **C, C++, Java, Python, JavaScript, TypeScript e SQL**. Também trabalhei com tecnologias e frameworks modernos como **React (com Vite), Spring Boot, Bootstrap**, além de lidar com **bancos de dados relacionais (MySQL, PostgreSQL)** e **NoSQL (MongoDB)**.
 
+Além da área de desenvolvimento, também atuei em projetos voltados ao design de interfaces e comunicação visual, utilizando ferramentas como Figma e Photoshop. Criei protótipos de baixa, média e alta fidelidade, interfaces responsivas e artes visuais, unindo princípios de design e usabilidade para entregar soluções visualmente atraentes e funcionais.
+
 ---
 
 ## 📫 Meus Contatos
@@ -50,6 +52,7 @@ Ao longo da minha jornada acadêmica e profissional, desenvolvi projetos utiliza
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css&logoColor=264CE4)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-A-001e36?logo=adobephotoshop&logoColor=fff&style=for-the-badge&colorA=001e36&colorB=31a8ff)
 
 ---
 
